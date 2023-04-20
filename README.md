@@ -4,6 +4,8 @@ con Jupiter notebooks.
 
 ### S1 - Fundamentos de Python
 
+<img src="../Notebooks_Data_Science/mapas_mentales/IMG_0281.PNG" width="881" height="638" />
+
 - Declaración variables y tipos de datos
 - Interpolación de cadenas de texto
 - Operadores de comparación
@@ -11,6 +13,8 @@ con Jupiter notebooks.
 - Conversión de tipos de datos (casting)
 
 ### S2 - Estructuras de datos y funciones
+
+<img src="../Notebooks_Data_Science/mapas_mentales/IMG_0281.PNG" width="894" height="638" />
 
 - Listas
 - Tuplas
@@ -21,6 +25,8 @@ con Jupiter notebooks.
 - Declaración y uso de funciones
 
 ### S3 - Programación funcional, operadores lógicos y funciones lambda
+
+<img src="../Notebooks_Data_Science/mapas_mentales/IMG_0282.PNG" width="267" height="307" />
 
 - Función map()
 - Función filter()
